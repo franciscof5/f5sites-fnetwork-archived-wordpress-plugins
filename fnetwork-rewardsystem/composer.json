@@ -1,0 +1,16 @@
+{
+	"name": "f5sites/rewardsystem",
+	"description": "rewardsystem",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Francisco Matelli Matulovic",
+			"email": "francisco@f5sites.com",
+			"homepage": "http://franciscomat.com"
+		}
+	],
+	"require": {
+    		"composer/installers": "~1.0",
+	        "php": ">=5.2.4"
+        }
+}
